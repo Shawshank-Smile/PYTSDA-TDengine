@@ -1,4 +1,4 @@
-# PyODDS
+# PYTSDA-TDengine
 [![Build Status](https://travis-ci.com/datamllab/PyODDS.svg?branch=master)](https://travis-ci.com/datamllab/PyODDS)
 [![Coverage Status](https://coveralls.io/repos/github/datamllab/PyODDS/badge.svg?branch=master)](https://coveralls.io/github/datamllab/PyODDS?branch=master)
 [![Documentation Status](https://readthedocs.org/projects/pyodds-handbook/badge/?version=latest)](https://pyodds.github.io/)
