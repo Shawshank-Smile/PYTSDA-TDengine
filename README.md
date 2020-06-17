@@ -11,9 +11,9 @@ TDengine Version：1.6.5.9 ,	Any question about TDengine, wechat : 13720014098
 
 ##
 
-**PYTSDA-TDengine** is an end-to end time series data analysis **Python** system with **TDengine**. PyODDS provides algorithms which meet the demands for users in time series data analysis fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of time series data analysis algorithms, including statistical analysis and more recent deep learning based approaches. 
+**PYTSDA-TDengine** is an end-to end time series data analysis **Python** system with **TDengine**. PYTSDA-TDengine provides algorithms which meet the demands for users in time series data analysis fields, w/wo data science or machine learning background. PYTSDA-TDengine gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of time series data analysis algorithms, including statistical analysis and more recent deep learning based approaches. 
 
-PyODDS is featured for:
+PYTSDA-TDengine is featured for:
 
   - **Full Stack Service** which supports operations and maintenances from light-weight SQL based database to back-end machine learning algorithms and makes the throughput speed faster;
 
@@ -21,7 +21,7 @@ PyODDS is featured for:
 
   - **Powerful Data Analysis Mechanism** which supports **time-series data** analysis with flexible time-slice(sliding-window) segmentation.  
   
-  - **Automated Machine Learning** PyODDS describes the first attempt to incorporate automated machine learning with time series data, and belongs to one of the first attempts to extend automated machine learning concepts into real-world data mining tasks.
+  - **Automated Machine Learning** PYTSDA-TDengine describes the first attempt to incorporate automated machine learning with time series data, and belongs to one of the first attempts to extend automated machine learning concepts into real-world data mining tasks.
 
 The Full API Reference can be found in [`handbook`](https://pyodds.github.io/).
 
