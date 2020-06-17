@@ -11,7 +11,7 @@ TDengine Version：1.6.5.9 ,	Any question about TDengine, wechat : 13720014098
 
 ##
 
-**PyODDS** is an end-to end time series data analysis **Python** system with **TDengine**. PyODDS provides algorithms which meet the demands for users in time series data analysis fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of time series data analysis algorithms, including statistical analysis and more recent deep learning based approaches. 
+**PYTSDA-TDengine** is an end-to end time series data analysis **Python** system with **TDengine**. PyODDS provides algorithms which meet the demands for users in time series data analysis fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of time series data analysis algorithms, including statistical analysis and more recent deep learning based approaches. 
 
 PyODDS is featured for:
 
@@ -88,7 +88,7 @@ To install the package, please use the [`pip`](https://pip.pypa.io/en/stable/ins
 pip install pyodds
 pip install git+git@github.com:datamllab/PyODDS.git
 ```
-**Note:** PyODDS is only compatible with **Python 3.6** and above.
+**Note:** PYTSDA-TDengine is only compatible with **Python 3.6** and above.
 
 ### Required Dependencies
 
