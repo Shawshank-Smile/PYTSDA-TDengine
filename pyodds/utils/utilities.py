@@ -190,7 +190,7 @@ def connect_server(host,user,password):
     # @password : Password
     # @database : Database to use when connecting to TDengine server
     # @config   : Configuration directory
-    #conn = taos.connect(host,user,password,config="/etc/taos")
+    #conn = taos.connect(host,user,password,config="/etc/taos"), if in linux the default config is in the dir: /etc/taos
     conn = taos.connect(host=host,user=user,password=password)
     
     cursor = conn.cursor()
